@@ -10,3 +10,6 @@ Por el momento hemos revisado algunas características como:
 + Puede contener *Scripts*
 
 + E incluso algunos *archivos*
+
+
+Se probarán algunas modificaciones según el *objetivo* de la clase.
